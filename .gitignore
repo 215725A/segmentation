@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+.venv/
+data/
+images/*/*.png
+outputs/*/*/*.pt
+videos/*/*/*.mp4
+videos/*.mp4
+config/*.yml
+!config/template.yml
